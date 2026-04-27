@@ -174,8 +174,8 @@ Bounties have two rewards, the first is a payment in credits the second is votin
  20% of minted credits becomes Order Debt charged across all serving.
  - 10 credits minted, 2 druids serving, each charged one credit.
  - Druid's cannot redeem credits if they don't have any, and will thusly have to rely on USW
- - ok maybe it spreads 6-3-1, 6 Grand Grove members, 3 Delegates, 1 Druids.
-	 - 10 credits minted, .12 charged to the single Grand Grove member, .6 to the single Delegate, and .2 to the single druid
+ - ok maybe it spreads 5-3-2, 5 Grand Grove members, 3 Delegates, 2 Druids.
+	 - 10 credits minted, 1 credit charged to the single Grand Grove member, .6 to the single Delegate, and .4 to the single druid
 
 There is no peer-peer credit trading.  
 Credits can ONLY be spent on bounties, in-network vendors, or traded for their weight in Order profits in $USD.
