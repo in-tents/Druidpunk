@@ -1,3 +1,9 @@
+to do: 
+ - turn credits exclusively into labor tracking
+	 - meaning no one actually holds credits, it's just the way we track your $20 payout on paper
+     - this also removes the debt accrued by druids from minting credits
+     - which brings me to the original issue: how to separate market and church and state
+		 - the answer, unluckily, may mean mixing them harder but explicitly rather than trying to separate them
 # What is Druidpunk?
 Druidpunk as a societal theory blends a bunch of different things that Deitrich has either forgotten where he heard it or it was delivered via contemplation or he is simply too lazy to email me back.
 ## VSM Architecture for the Druidic Order of the Darkest Moon
@@ -22,8 +28,8 @@ Themis - Correct natural order, what is currently true
 Eris - Stress tester of what is no longer true    
 Gaia - Mother earth, we live on her, we are of her  
 Hestia - the hearth fire spread and upkept across all the nodes  
-Mercury - In order to move capitalism to socialism to communism some finangaling will be required.  
-The rock - What Eris reveals and Hecate carves  
+Mercury - In order to move capitalism to socialism to stateless society some finangaling will be required.  
+a rock - What gnosis reveals, what Eris chips away, and what Hecate makes crystal through heat and pressure; representing you as the physical point of divinely inspired action, the quality of that action determined by your rock's quality.  
 
 Mythology as psychological translation layer
 - History is data, that data is then told in a way that keeps us from making the same mistakes, or presents a new way to see a problem to solve it better.
